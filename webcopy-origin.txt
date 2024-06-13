@@ -1,0 +1,168 @@
+Uri: https://elijahdufour.netlify.app/
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://elijahdufour.netlify.app/css/all.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\all.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/animate.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\animate.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/fancybox.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\fancybox.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/jquery.animatedheadline.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\jquery.animatedheadline.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/odometer-theme-minimal.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\odometer-theme-minimal.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/responsive.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\responsive.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/style_dark.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\style_dark.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/css/swiper.css
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css\swiper.css
+Content Type: text/css
+
+Uri: https://elijahdufour.netlify.app/images/cosmos-atom-logo.png
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\images\cosmos-atom-logo.png
+Content Type: image/png
+
+Uri: https://elijahdufour.netlify.app/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/fancybox.umd.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\fancybox.umd.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/jquery.animatedheadline.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\jquery.animatedheadline.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/jQuery.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\jQuery.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/main.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/mixitup.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\mixitup.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/odometer.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\odometer.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/particles.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\particles.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/particles_shape_dark.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\particles_shape_dark.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/swiper.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/js/wow.js
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\js\wow.js
+Content Type: application/javascript
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-01.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-04.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-04.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-05.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-06.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-06.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-07.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-07.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-08.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-08.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-11.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-11.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-12.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-12.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-13.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-13.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/projects/blog-14.jpg
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\projects\blog-14.jpg
+Content Type: image/jpeg
+
+Uri: https://elijahdufour.netlify.app/preview_assets/images/reactspace2.png
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\preview_assets\images\reactspace2.png
+Content Type: image/png
+
+Uri: https://elijahdufour.netlify.app/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://elijahdufour.netlify.app/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://elijahdufour.netlify.app/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://elijahdufour.netlify.app/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://elijahdufour.netlify.app/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79P0U.ttf
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\s\ptsans\v17\jizaRExUiTo99u79P0U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh4Ok.ttf
+File Name: C:\Downloaded Web Sites\elijahdufour.netlify.app\s\ptsans\v17\jizfRExUiTo99u79B_mh4Ok.ttf
+Content Type: font/ttf
+
